@@ -1,0 +1,38 @@
+.bg1{
+    background-color: #ffff00;
+    background-image: url('../images/graphics-design.jpg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bg2{ 
+    
+    background: fixed #ffff00 url('../images/graphics-design.jpg') no-repeat top left ;
+    background-size: contain;
+
+}
+/* 
+background-repeat: repeat; 
+background-repeat: repeat-x; 
+background-repeat: repeat-y; 
+background-repeat: no-repeat; 
+
+background-position: top left;
+background-position: top center;
+background-position: top right;
+background-position: center left;
+background-position: center center;
+background-position: center right;
+background-position: bottom left;
+background-position: bottom center;
+background-position: bottom right;
+
+background-attachment: scroll;
+background-attachment: fixed; 
+
+background-size: auto;
+background-size: contain;
+ackground-size: cover;
+
+*/

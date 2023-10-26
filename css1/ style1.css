@@ -1,0 +1,28 @@
+.bg1{ 
+    background-color: blue;
+    background-image: url('../images/the-world-of-classic-muscle-cars-with-this-captivating-4k-wallpaper-free-photo.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    text-align: justify;
+    
+
+
+}
+.imgsize{   height: 300px; border: 25px dotted #3dff02; padding: 50px;}
+
+
+
+.tcenter{ text-align: center; border-width: 25px; border-style: inset; border-color: #ffd900;
+margin-bottom: 150px;
+padding: 200px;
+
+}
+.p{padding: 50x; margin: 50px; border: inset; background-color: #ffffff;} 
+.bg2{
+    background: #ffff00 url('../images/0x0.webp') fixed no-repeat top left ;
+    background-size: cover;
+
+
+}
